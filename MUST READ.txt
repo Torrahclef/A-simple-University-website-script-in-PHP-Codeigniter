@@ -1,0 +1,11 @@
+Thanks for working with me. 
+Please follow the following instructions carefully
+
+To change the site's default Language, simply open the folder "application" >> LANGUAGE >> ENGLISH >> global_lang
+
+
+To edit the site's header or menu, simply open the folder "styles" >> site >> default >> layout
+
+
+Any other info needed, just contact me.
+Thanks 
